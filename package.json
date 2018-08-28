@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A React App with Redux that fetches books",
   "main": "index.js",
-  "repository": "",
+  "repository": "git@github.com:ptavarez16/reactive-books.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.5",
     "react": "16.3.2",
     "react-dom": "16.3.2",
     "react-redux": "5.0.7",

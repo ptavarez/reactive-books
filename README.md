@@ -1,2 +1,2 @@
 # Reactive Books
-A React with Redux web application that fetches books.
+A practice app made to play with react and redux.
